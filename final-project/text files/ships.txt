@@ -1,0 +1,21 @@
+boat_id name crew_number captain_id
+1 "Black Pearl" 9 45
+2 "Grand Serpent" 10 23
+3 "Ocean Curse" 5 46
+4 "Wild Storm" 13 124
+5 "Poseidons Revenge" 6 80
+6 "The Freedom" 10 34
+7 "Queen Annes Revenge" 7 109
+8 "Flying Dutchman" 8 144
+9 "Jolly Roger" 12 97
+10 "Black Charlatan" 8 39
+11 "Empress" 8 120
+12 "The Hail Mary" 9 157
+13 "The Sea Hag" 9 49
+14 "Shangri-la" 7 140
+15 "Vittorio Veneto" 11 91
+16 "Nina" 8 77 
+17 "Andrea Gail" 9 166
+18 "The Other Woman" 7 7
+19 "The Essex" 6 81
+20 "The Interceptor" 5 15

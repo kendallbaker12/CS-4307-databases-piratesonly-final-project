@@ -1,0 +1,161 @@
+1 'Florida' 'Shooting' 'Pirate Techno' 19
+2 'Ireland' 'Stealing' 'Pirate Techno' 33
+3 'Madagascar' 'Napping' 'Sea Shanties' 19
+4 'Italy' 'Smoking' 'Pirate Metal' 32
+5 'Tortuga' 'Board Games' 'Pirate Metal' 38
+6 'Mexico' 'Drinking' 'Pirate Techno' 35
+7 'Italy' 'Board Games' 'Sea Shanties' 20
+8 'Mexico' 'Napping' 'Sea Shanties' 25
+9 'Ireland' 'Shooting' 'Pirate Country' 31
+10 'Bahamas' 'Stealing' 'Pirate Rap' 40
+11 'Mexico' 'Shooting' 'Pirate Country' 20
+12 'Tortuga' 'Stealing' 'Sea Shanties' 31
+13 'Bahamas' 'Napping' 'Pirate Techno' 37
+14 'Bahamas' 'Board Games' 'Sea Shanties' 25
+15 'Bahamas' 'Drinking' 'Pirate Rap' 23
+16 'Ireland' 'Smoking' 'Pirate Folksongs' 38
+17 'Florida' 'Smoking' 'Pirate Rap' 32
+18 'Italy' 'Shooting' 'Pirate Country' 40
+19 'Florida' 'Drinking' 'Pirate Techno' 33
+20 'Florida' 'Shooting' 'Pirate Country' 28
+21 'Ireland' 'Napping' 'Pirate Country' 24
+22 'Italy' 'Shooting' 'Pirate Folksongs' 27
+23 'Italy' 'Board Games' 'Pirate Metal' 40
+24 'Florida' 'Stealing' 'Pirate Rap' 26
+25 'Madagascar' 'Board Games' 'Pirate Metal' 18
+26 'Madagascar' 'Shooting' 'Pirate Techno' 20
+27 'Mexico' 'Board Games' 'Pirate Folksongs' 25
+28 'Florida' 'Smoking' 'Pirate Folksongs' 22
+29 'Tortuga' 'Napping' 'Pirate Techno' 38
+30 'Bahamas' 'Shooting' 'Sea Shanties' 33
+31 'Tortuga' 'Shooting' 'Pirate Folksongs' 35
+32 'Florida' 'Board Games' 'Pirate Rap' 24
+33 'Madagascar' 'Drinking' 'Sea Shanties' 33
+34 'Tortuga' 'Board Games' 'Pirate Metal' 19
+35 'Mexico' 'Stealing' 'Pirate Metal' 37
+36 'Madagascar' 'Smoking' 'Pirate Country' 21
+37 'Italy' 'Shooting' 'Pirate Techno' 36
+38 'Florida' 'Napping' 'Pirate Metal' 29
+39 'Tortuga' 'Shooting' 'Pirate Techno' 26
+40 'Bahamas' 'Napping' 'Pirate Folksongs' 27
+41 'Italy' 'Napping' 'Pirate Country' 18
+42 'Ireland' 'Board Games' 'Pirate Country' 27
+43 'Ireland' 'Drinking' 'Pirate Metal' 21
+44 'Florida' 'Napping' 'Sea Shanties' 39
+45 'Ireland' 'Smoking' 'Pirate Rap' 33
+46 'Ireland' 'Board Games' 'Pirate Techno' 35
+47 'Italy' 'Shooting' 'Pirate Metal' 31
+48 'Mexico' 'Stealing' 'Pirate Metal' 28
+49 'Madagascar' 'Board Games' 'Pirate Techno' 29
+50 'Italy' 'Drinking' 'Pirate Country' 35
+51 'Florida' 'Napping' 'Pirate Folksongs' 35
+52 'Madagascar' 'Napping' 'Pirate Techno' 37
+53 'Madagascar' 'Shooting' 'Pirate Rap' 24
+54 'Italy' 'Shooting' 'Pirate Folksongs' 25
+55 'Ireland' 'Drinking' 'Pirate Rap' 18
+56 'Italy' 'Drinking' 'Pirate Folksongs' 20
+57 'Mexico' 'Shooting' 'Pirate Country' 24
+58 'Bahamas' 'Drinking' 'Pirate Folksongs' 30
+59 'Florida' 'Board Games' 'Pirate Techno' 28
+60 'Italy' 'Drinking' 'Pirate Folksongs' 33
+61 'Italy' 'Smoking' 'Pirate Folksongs' 25
+62 'Mexico' 'Drinking' 'Pirate Folksongs' 29
+63 'Florida' 'Shooting' 'Pirate Rap' 30
+64 'Florida' 'Drinking' 'Pirate Folksongs' 35
+65 'Mexico' 'Napping' 'Pirate Folksongs' 35
+66 'Mexico' 'Smoking' 'Sea Shanties' 35
+67 'Tortuga' 'Drinking' 'Pirate Folksongs' 27
+68 'Bahamas' 'Board Games' 'Pirate Rap' 24
+69 'Ireland' 'Drinking' 'Pirate Folksongs' 31
+70 'Madagascar' 'Drinking' 'Pirate Folksongs' 21
+71 'Mexico' 'Shooting' 'Pirate Rap' 33
+72 'Bahamas' 'Smoking' 'Pirate Metal' 31
+73 'Madagascar' 'Stealing' 'Pirate Techno' 38
+74 'Madagascar' 'Drinking' 'Pirate Country' 35
+75 'Mexico' 'Drinking' 'Pirate Rap' 18
+76 'Ireland' 'Smoking' 'Pirate Rap' 35
+77 'Tortuga' 'Smoking' 'Pirate Rap' 22
+78 'Tortuga' 'Smoking' 'Pirate Metal' 24
+79 'Madagascar' 'Napping' 'Pirate Techno' 33
+80 'Florida' 'Drinking' 'Pirate Folksongs' 33
+81 'Bahamas' 'Drinking' 'Pirate Metal' 35
+82 'Florida' 'Stealing' 'Pirate Folksongs' 26
+83 'Florida' 'Napping' 'Sea Shanties' 32
+84 'Ireland' 'Stealing' 'Pirate Metal' 39
+85 'Madagascar' 'Stealing' 'Sea Shanties' 23
+86 'Bahamas' 'Drinking' 'Pirate Folksongs' 36
+87 'Florida' 'Napping' 'Pirate Rap' 29
+88 'Madagascar' 'Shooting' 'Pirate Techno' 35
+89 'Tortuga' 'Smoking' 'Pirate Metal' 38
+90 'Tortuga' 'Shooting' 'Pirate Techno' 19
+91 'Mexico' 'Napping' 'Pirate Rap' 22
+92 'Florida' 'Board Games' 'Pirate Country' 32
+93 'Florida' 'Napping' 'Sea Shanties' 36
+94 'Mexico' 'Smoking' 'Pirate Folksongs' 29
+95 'Bahamas' 'Smoking' 'Pirate Rap' 28
+96 'Bahamas' 'Shooting' 'Pirate Rap' 35
+97 'Bahamas' 'Shooting' 'Pirate Folksongs' 20
+98 'Italy' 'Drinking' 'Pirate Techno' 36
+99 'Bahamas' 'Smoking' 'Pirate Country' 33
+100 'Bahamas' 'Shooting' 'Pirate Techno' 38
+101 'Italy' 'Shooting' 'Pirate Folksongs' 24
+102 'Mexico' 'Napping' 'Pirate Folksongs' 31
+103 'Italy' 'Shooting' 'Pirate Country' 36
+104 'Tortuga' 'Smoking' 'Sea Shanties' 25
+105 'Bahamas' 'Napping' 'Pirate Rap' 36
+106 'Madagascar' 'Stealing' 'Pirate Techno' 27
+107 'Mexico' 'Napping' 'Pirate Folksongs' 21
+108 'Florida' 'Board Games' 'Pirate Country' 38
+109 'Ireland' 'Shooting' 'Pirate Folksongs' 34
+110 'Ireland' 'Drinking' 'Sea Shanties' 29
+111 'Madagascar' 'Shooting' 'Pirate Metal' 32
+112 'Mexico' 'Napping' 'Pirate Metal' 19
+113 'Madagascar' 'Drinking' 'Pirate Rap' 29
+114 'Bahamas' 'Smoking' 'Pirate Metal' 29
+115 'Tortuga' 'Napping' 'Pirate Rap' 21
+116 'Bahamas' 'Board Games' 'Pirate Metal' 29
+117 'Florida' 'Smoking' 'Pirate Techno' 29
+118 'Bahamas' 'Drinking' 'Pirate Metal' 22
+119 'Tortuga' 'Stealing' 'Pirate Country' 35
+120 'Mexico' 'Board Games' 'Sea Shanties' 25
+121 'Ireland' 'Napping' 'Sea Shanties' 31
+122 'Bahamas' 'Drinking' 'Pirate Metal' 23
+123 'Ireland' 'Board Games' 'Sea Shanties' 30
+124 'Florida' 'Shooting' 'Pirate Metal' 18
+125 'Tortuga' 'Napping' 'Sea Shanties' 38
+126 'Madagascar' 'Drinking' 'Sea Shanties' 26
+127 'Ireland' 'Napping' 'Pirate Folksongs' 18
+128 'Ireland' 'Stealing' 'Pirate Techno' 23
+129 'Mexico' 'Drinking' 'Pirate Folksongs' 26
+130 'Ireland' 'Drinking' 'Pirate Country' 35
+137 'Tortuga' 'Shooting' 'Pirate Metal' 40
+138 'Tortuga' 'Shooting' 'Pirate Techno' 39
+139 'Mexico' 'Drinking' 'Pirate Metal' 31
+140 'Ireland' 'Drinking' 'Sea Shanties' 37
+141 'Ireland' 'Drinking' 'Sea Shanties' 22
+142 'Bahamas' 'Stealing' 'Pirate Country' 19
+143 'Bahamas' 'Board Games' 'Pirate Folksongs' 35
+144 'Bahamas' 'Drinking' 'Pirate Rap' 37
+145 'Mexico' 'Smoking' 'Pirate Country' 23
+146 'Bahamas' 'Napping' 'Pirate Metal' 20
+147 'Tortuga' 'Smoking' 'Pirate Country' 38
+148 'Ireland' 'Napping' 'Pirate Rap' 25
+149 'Madagascar' 'Drinking' 'Pirate Metal' 40
+150 'Bahamas' 'Napping' 'Pirate Country' 39
+151 'Mexico' 'Drinking' 'Pirate Metal' 25
+152 'Mexico' 'Stealing' 'Sea Shanties' 26
+153 'Mexico' 'Board Games' 'Pirate Folksongs' 19
+154 'Florida' 'Board Games' 'Sea Shanties' 30
+155 'Madagascar' 'Shooting' 'Pirate Metal' 20
+156 'Mexico' 'Drinking' 'Pirate Folksongs' 28
+157 'Mexico' 'Shooting' 'Pirate Country' 30
+158 'Madagascar' 'Napping' 'Pirate Rap' 36
+159 'Madagascar' 'Drinking' 'Pirate Folksongs' 26
+160 'Mexico' 'Smoking' 'Sea Shanties' 19
+161 'Ireland' 'Drinking' 'Sea Shanties' 19
+162 'Tortuga' 'Smoking' 'Pirate Metal' 25
+163 'Madagascar' 'Shooting' 'Pirate Techno' 26
+164 'Madagascar' 'Napping' 'Sea Shanties' 38
+165 'Italy' 'Board Games' 'Pirate Rap' 21
+166 'Ireland' 'Napping' 'Pirate Country' 40
+167 'Bahamas' 'Board Games' 'Pirate Folksongs' 34
